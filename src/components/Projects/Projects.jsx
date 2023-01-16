@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import ProjectSvg from './ProjectSvg'
 import Fade from 'react-reveal/Fade';
-import capstone from '../../assets/capstone.png'
-import internship from '../../assets/internship.jpg'
+import capstone from '../../assets/capstoneBg.png'
+import internship from '../../assets/internshipBg.jpg'
 import ProjectCard from './ProjectCard'
 
 function Projects() {
